@@ -25,4 +25,3 @@ Payooo is a simple and secure **digital wallet application** that allows users t
 
 
 
-Do you want me to also **write a polished LinkedIn caption** for posting (with hashtags and emojis), so it looks more engaging?
